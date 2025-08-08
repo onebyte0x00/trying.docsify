@@ -1,6 +1,7 @@
 # 🌐 CCNA Mind Maps - Interactive Networking Guide
 
-> **Visual learning resources for Cisco CCNA certification**  
+> **Visual learning resources for Cisco CCNA certification**
+> this is pretty junk, im just trying 
 > *All mind maps live in the `/mindmaps/` directory*
 
 <div class="grid-container">
