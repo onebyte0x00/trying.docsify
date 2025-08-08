@@ -16,11 +16,19 @@
 
 ![Cisco Network](https://i.imgur.com/Jfh9gl8.png)
 
-## Features
-- ✅ **Searchable** commands & concepts  
-- 🎨 **Dark/Light mode** toggle  
-- 📱 **Mobile-friendly**  
-- 🧩 **Embedded quizzes** (coming soon!)  
+## 🗂️ All Mind Maps
+
+<div class="grid-container">
+  <a href="automation.md" class="card">
+    <h3>🤖 Automation</h3>
+    <p>Python, Ansible, NETCONF</p>
+  </a>
+  <a href="ipv6.md" class="card">
+    <h3>🔢 IPv6</h3>
+    <p>Addressing, Transition</p>
+  </a>
+  <!-- Add more cards for other topics -->
+</div>
 
 ```mermaid
 graph LR
