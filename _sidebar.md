@@ -1,7 +1,7 @@
 - 📚 **Mind Maps**
-  - 🤖 [Automation](automation.md)
-  - 🔢 [IPv6](ipv6.md)
-  - 🌐 [OSI Model](osi-model.md)
+  - 🤖 [Automation](/mindmaps/automation.md)
+  - 🔢 [IPv6](/mindmaps/ipv6.md)
+  - 🌐 [OSI Model](/mindmaps/osi-model.md)
   - 🛣️ [Routing Protocols](routing-protocols.md)
   - 🔒 [Security](security.md)
   - ➗ [Subnetting](subnetting.md)
