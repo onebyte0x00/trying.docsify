@@ -29,3 +29,13 @@
   padding: 1rem;
   border-radius: 8px;
 }
+/*dark mode*/
+.dark {
+  --theme-color: #003d4d;
+  background: #121212;
+  color: #e0e0e0;
+}
+.dark .card {
+  background: #1e1e1e;
+  border-color: #333;
+}
