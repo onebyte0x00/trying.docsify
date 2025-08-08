@@ -57,7 +57,19 @@
       ]
     };
   </script>
-
+<script>
+  window.$docsify = {
+    loadSidebar: true,
+    alias: {
+      // Handle sidebar paths correctly
+      '/mindmaps/(.*)': '/mindmaps/$1'
+    },
+    routes: {
+      // Make sure routes work with the mindmaps/ prefix
+      '/mindmaps/(.*)': '/mindmaps/$1'
+    }
+  };
+</script>
   <!-- Docsify + Plugins -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
