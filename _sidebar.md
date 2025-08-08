@@ -1,0 +1,11 @@
+- 📚 **Mind Maps**
+  - 🤖 [Automation](automation.md)
+  - 🔢 [IPv6](ipv6.md)
+  - 🌐 [OSI Model](osi-model.md)
+  - 🛣️ [Routing Protocols](routing-protocols.md)
+  - 🔒 [Security](security.md)
+  - ➗ [Subnetting](subnetting.md)
+  - 📦 [TCP/IP Model](tcp-ip-model.md)
+  - 🐞 [Troubleshooting](troubleshooting.md)
+  - 🏷️ [VLANs](vlans.md)
+  - 📶 [Wireless](wireless.md)
